@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790513876138,
+      "tag": "0000_unique_groot",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790663610884,
+      "tag": "0001_rich_kid_colt",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790664411126,
+      "tag": "0002_opposite_cargill",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1790665972475,
+      "tag": "0003_icy_black_panther",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1790666599077,
+      "tag": "0004_wild_nemesis",
+      "breakpoints": true
+    }
+  ]
+}
